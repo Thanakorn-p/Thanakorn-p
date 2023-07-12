@@ -1,6 +1,3 @@
-<div text-align:center>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/tpongrit?1337Badge=off&UM6P=off" alt="tpongrit's 42 stats" /></a>
-</div>
 
 - Hello there 😊
 - 👋 My name is Thanakorn Pongritsakda but just call me "Phu".
