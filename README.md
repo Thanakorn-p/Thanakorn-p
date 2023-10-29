@@ -2,7 +2,6 @@
 - Hello there 😊
 - 👋 My name is Thanakorn Pongritsakda but just call me "Phu".
 - 👀 I’m student in bachelor of science in acturial science at Mahidol University.
-- and I am studying computer science at 42 Bangkok.
 - 📫 How to reach me email:tpongritsakdawork@gmail.com
 - Please feel free to contact me on discord -> The_Randel#3762
 
